@@ -1,0 +1,105 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "F664C45FDD2D69F39264691C111E4CFC.jvm1",
+      "domain": "leaftaps.com",
+      "path": "/opentaps",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "FFF3E67B0B3783E637667867C4C4085F.jvm1",
+      "domain": "leaftaps.com",
+      "path": "/crmsfa",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OFBiz.Visitor",
+      "value": "919298",
+      "domain": "leaftaps.com",
+      "path": "/",
+      "expires": 1797840878.393888,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CLID",
+      "value": "fbb112edd0d6417bad1c3631287e0269.20251221.20261221",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1797840875.420329,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "ns6vk7%5E2%5Eg21%5E0%5E2181",
+      "domain": ".leaftaps.com",
+      "path": "/",
+      "expires": 1797840875,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1036295543.1766304877",
+      "domain": ".leaftaps.com",
+      "path": "/",
+      "expires": 1766391277,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_gtag_UA_241053063_1",
+      "value": "1",
+      "domain": ".leaftaps.com",
+      "path": "/",
+      "expires": 1766304937,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_BFM17W6LPR",
+      "value": "GS2.1.s1766304875$o1$g1$t1766304877$j58$l0$h0",
+      "domain": ".leaftaps.com",
+      "path": "/",
+      "expires": 1800864877.73962,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_XC5DRQT2CH",
+      "value": "GS2.1.s1766304875$o1$g1$t1766304877$j58$l0$h0",
+      "domain": ".leaftaps.com",
+      "path": "/",
+      "expires": 1800864877.786401,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.958388895.1766304876",
+      "domain": ".leaftaps.com",
+      "path": "/",
+      "expires": 1800864877.844018,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
